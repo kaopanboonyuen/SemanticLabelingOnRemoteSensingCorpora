@@ -19,7 +19,7 @@ Updates:
 
 ## 1. About HR-GCN-FF-DA Model (Our proposed deep learning architecture)
 
-HR-GCN-FF-DA are a family of semantic segmentatiom models, which achieve state-of-the-art accuracy on Remote Sensing corpus, yet being an extracting features with higher quality and more efficient than our previous models [link](https://www.mdpi.com/2072-4292/11/1/83).
+HR-GCN-FF-DA are a family of semantic segmentatiom models, which achieve state-of-the-art accuracy on Remote Sensing corpus, yet being an extracting features with higher quality and more efficient than our previous models [[link]](https://www.mdpi.com/2072-4292/11/1/83).
 
 
 HR-GCN-FF-DA are developed based on the advanced backbone, a new High-Resolution Representation (HR), and a modern deep learning technique:
