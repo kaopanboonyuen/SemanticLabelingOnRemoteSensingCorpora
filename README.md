@@ -19,7 +19,7 @@ Updates:
 
 ## 1. About HR-GCN-FF-DA Model (Our proposed deep learning architecture)
 
-HR-GCN-FF-DA are a family of semantic segmentatiom models, which achieve state-of-the-art accuracy on Remote Sensing corpus, yet being an extracting features with higher quality and more efficient than our previous models.
+HR-GCN-FF-DA are a family of semantic segmentatiom models, which achieve state-of-the-art accuracy on Remote Sensing corpus, yet being an extracting features with higher quality and more efficient than our previous models [link](https://www.mdpi.com/2072-4292/11/1/83).
 
 
 HR-GCN-FF-DA are developed based on the advanced backbone, a new High-Resolution Representation (HR), and a modern deep learning technique:
@@ -37,9 +37,11 @@ HR-GCN-FF-DA are developed based on the advanced backbone, a new High-Resolution
 We have provided a list of EfficientNet checkpoints for HR-GCN-FF-DA checkpoints:.
 
   ** All checkpoints are trained with augmentation.
-  Drive (Pretrained of HR-GCN-FF-DA for ISPRS Vaihingen): 
-  Drive (Pretrained of HR-GCN-FF-DA for Landsat-8w3c corpus):
-  Drive (Pretrained of HR-GCN-FF-DA for Landsat-8w5c corpus):
+  Drive (Pretrained of HR-GCN-FF-DA for ISPRS Vaihingen): https://drive.google.com/open?id=1J7YClrBRlm9Oo8c8Xq621N_J0B_RYW2d
+
+  Drive (Pretrained of HR-GCN-FF-DA for Landsat-8w3c corpus): https://drive.google.com/open?id=1kWWoQwSZx73e_lWElNT2Yebax4xU5FmB
+
+  Drive (Pretrained of HR-GCN-FF-DA for Landsat-8w5c corpus): https://drive.google.com/open?id=1WtqrrIC4-_5aQwMsUqgpjZQ3Kyk4t1PK
 
 
 ## 3. Run inference.
@@ -72,11 +74,11 @@ Put a text file under the dataset directory called "our_class_dict.csv" which co
 
 ```
 name,r,g,b
-Agriculture or Harvested area,64,128,64
-Forest,192,0,128
-Urban,0,128, 192
-Water,0, 128, 64
-Miscellaneous,128, 0, 0
+Agriculture or Harvested area,255,255,155
+Forest,56,168,0
+Urban,255,0, 0
+Water,0, 122, 255
+Miscellaneous,183, 140, 31
 ```
 
 ## 4. Results.
