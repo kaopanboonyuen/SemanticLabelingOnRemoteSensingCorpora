@@ -58,7 +58,7 @@ This project has the following dependencies:
 ### Usage
 The only thing you have to do to get started is set up the folders in the following structure:
 
-    ├── "dataset_name"                   
+    ├── "corpus_name"                   
     |   ├── train
     |   ├── train_labels
     |   ├── val
@@ -66,7 +66,7 @@ The only thing you have to do to get started is set up the folders in the follow
     |   ├── test
     |   ├── test_labels
 
-Put a text file under the dataset directory called "class_dict.csv" which contains the list of classes along with the R, G, B colour labels to visualize the segmentation results. This kind of dictionairy is usually supplied with the dataset. Here is an example for the Landsat-8w5c dataset:
+Put a text file under the dataset directory called "our_class_dict.csv" which contains the list of classes along with the R, G, B colour labels to visualize the segmentation results. This kind of dictionairy is usually supplied with the dataset. Here is an example for the Landsat-8w5c dataset:
 
 ```
 name,r,g,b
