@@ -1,5 +1,7 @@
 # Semantic Labeling on Remote Sensing Corpora Using Feature Fusion-Based Enhanced Global Convolutional Network with High-Resolution Representations and Depthwise Atrous Convolution
 
+Author: Teerapong Panboonyuen
+
 Our previous work: [1] Panboonyuen, T.; Jitkajornwanich, K.; Lawawirojwong, S.; Srestasathiern, P.; Vateekul, P. Semantic Segmentation on Remotely Sensed Images Using an Enhanced Global Convolutional Network with Channel Attention and Domain Specific Transfer Learning. Remote Sens. 2019, 11, 83.
     Paper link: https://www.mdpi.com/2072-4292/11/1/83
 
