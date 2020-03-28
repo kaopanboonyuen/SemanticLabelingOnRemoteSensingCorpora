@@ -12,7 +12,7 @@ GCN152-TL-A (our previous model) are developed based on the ResNet-152 backbone 
 
 Updates:
 
-  - **Mar28: Fixed a few bugs and updated all checkpoints/results.**
+  - **March 28, 2020: Fixed a few bugs and updated all checkpoints/**
   - **We will provide full codes after our latest article have been published.**
 
 ## 1. About HR-GCN-FF-DA Model (Our proposed deep learning architecture)
