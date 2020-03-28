@@ -36,7 +36,8 @@ HR-GCN-FF-DA are developed based on the advanced backbone, a new High-Resolution
 
 We have provided a list of EfficientNet checkpoints for HR-GCN-FF-DA checkpoints:.
 
-  ** All checkpoints are trained with augmentation.
+  ** All these best checkpoints are trained with HR-GCN-FF-DA network.
+  
   Drive (Pretrained of HR-GCN-FF-DA for ISPRS Vaihingen): https://drive.google.com/open?id=1J7YClrBRlm9Oo8c8Xq621N_J0B_RYW2d
 
   Drive (Pretrained of HR-GCN-FF-DA for Landsat-8w3c corpus): https://drive.google.com/open?id=1kWWoQwSZx73e_lWElNT2Yebax4xU5FmB
