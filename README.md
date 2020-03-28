@@ -27,7 +27,7 @@ HR-GCN-FF-DA are developed based on the advanced backbone, a new High-Resolution
 </p>
 
   * **Backbone**: we employ the more advanced [HRNets](https://arxiv.org/abs/1908.07919) as our new backbone networks.
-  * **DA**: we apply a new depthwise atrous convolution [DA](from http://openaccess.thecvf.com/content_ICCV_2019/papers/Pang_Towards_Bridging_Semantic_Gap_to_Improve_Semantic_Segmentation_ICCV_2019_paper.pdf) feature network to enable easy and combine with our feature fusion. 
+  * **DA**: we apply a new depthwise atrous convolution [DA](http://openaccess.thecvf.com/content_ICCV_2019/papers/Pang_Towards_Bridging_Semantic_Gap_to_Improve_Semantic_Segmentation_ICCV_2019_paper.pdf) feature network to enable easy and combine with our feature fusion. 
 
 
 ## 2. Pretrained HR-GCN-FF-DA Checkpoints
